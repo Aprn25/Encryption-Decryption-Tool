@@ -1,0 +1,5 @@
+# Third-party package required by the project
+cryptography>=42.0.0
+
+# Tkinter, pathlib, os, secrets, tempfile, threading, and unittest are
+# provided by Python's standard library and do not belong in pip requirements.
